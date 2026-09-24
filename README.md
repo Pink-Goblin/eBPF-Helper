@@ -1,4 +1,4 @@
-# EBPF Helper - Projeto de Engenharia Informática
+# eBPF Helper - Projeto de Engenharia Informática
 
 ## How to use
 ### Gatherer 
